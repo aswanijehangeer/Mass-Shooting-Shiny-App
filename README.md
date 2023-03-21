@@ -1,2 +1,4 @@
-# Mass-Shooting-Shiny-App
-I have created a shiny app for all mass shooting in USA from 1982 to 2021.
+## Mass Shooting Shiny Web App
+
+
+![Mass Shooting Shiny Web App](https://jehangeer.shinyapps.io/MassShootingUS_1982-2021/)
